@@ -7,7 +7,7 @@ document.getElementById('btn-subbmit').addEventListener('click', function(){
     const passinput = document.getElementById('pass');
     const password = passinput.value;
     // step 4; compare valid or invalid with if else
-    if(email === 'maimun78l@gmail.com' && password === '751571887'){
+    if(email === 'bap@gmail.com' && password === '1234'){
         window.location.href = 'bank.html';
     }
     else{
